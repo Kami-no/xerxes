@@ -1,0 +1,13 @@
+aerospike
+aiohttp
+apscheduler
+exchangelib
+jira
+mock
+peewee
+PyMySQL
+pytest
+python_telegram_bot
+pyyaml
+requests
+responses
