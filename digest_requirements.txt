@@ -1,0 +1,6 @@
+apscheduler
+exchangelib
+jira
+PyMySQL
+peewee
+python_telegram_bot
